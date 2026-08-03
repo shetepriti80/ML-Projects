@@ -178,5 +178,20 @@ pickle-mixin
 - Hyperparameter tuning
 - Feature importance visualization
 
+  ---
+
+  ## 👨‍💻 Author
+
+**Priti Shete**
+
+- GitHub: https://github.com/shetepriti80
+- LinkedIn: https://linkedin.com/in/shetepriti80
+
+---
+
+## ⭐ Support
+
+If you found this project useful, please consider giving it a ⭐ on GitHub!
+
 ---
 
