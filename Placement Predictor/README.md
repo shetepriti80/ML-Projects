@@ -147,7 +147,7 @@ python app.py
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Priti Shete**
 
 - GitHub: https://github.com/shetepriti80
 - LinkedIn: https://linkedin.com/in/shetepriti80
